@@ -69,4 +69,18 @@ I came to security through real incidents before I had the full theory. That ord
 
 ---
 
+## What I Believe
+
+Security doesn't exist in a vacuum. How we build technology, who owns it, and who bears responsibility for its failures are questions that matter as much as the technical work itself.
+
+**Privacy as a right, not a feature.** Privacy should be the default, not something users have to opt into or pay extra for. Data minimization and user control aren't compliance checkboxes — they're the baseline.
+
+**Right to repair is a security issue.** If you can't inspect, modify, or repair the devices you own, you can't audit them. Proprietary black boxes in critical infrastructure and consumer hardware aren't just inconvenient — they're a security problem that affects everyone downstream.
+
+**Security should be accessible.** The tools and knowledge to operate securely shouldn't require enterprise budgets or a dedicated team. Part of why I build open, focused tooling is because smaller organizations deserve real security capability too.
+
+**The onus belongs on companies, not people.** We've spent decades telling individuals to be more security aware while shipping products with poor defaults, opaque data practices, and misaligned incentives. The responsibility for secure outcomes should sit with the people building and deploying systems, not the people using them.
+
+---
+
 *I keep personal and professional separate so you won't find much else here. The work speaks for itself.*
