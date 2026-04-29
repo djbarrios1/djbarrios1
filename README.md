@@ -19,7 +19,7 @@ Linux server administration and deployment, network architecture and segmentatio
 Incident response planning tied to NIST CSF and CIS controls, policy writing, internal audits, GRC documentation. I write things down in ways that protect the organization and the people making decisions inside it. I've used that documentation in live incidents and it held up.
 
 **Tooling & Automation**
-I build tools to fill gaps rather than reach for another vendor. Python, PowerShell, and Bash are my primary languages. I know enough Java and Rust to be dangerous and to read code I didn't write. I'm better at debugging and adapting than writing from scratch, which turns out to be most of the job anyway.
+I build tools to fill gaps rather than reach for another vendor. Rust is my primary language for systems and security tooling. I care about performance, explicit memory handling, and shipping binaries that don't require a runtime on the target machine. Python and PowerShell for automation and scripting. I have a Java background from earlier work and pick up new languages as the problem demands.
 
 ---
 
@@ -43,7 +43,7 @@ I build tools to fill gaps rather than reach for another vendor. Python, PowerSh
 ## Projects
 
 ### 🔧 [Security Ops Toolkit] *(in development)*
-A suite of focused, single-purpose security and system tools built in Rust. Designed in the spirit of NirSoft and Sysinternals — small, transparent, composable, JSON-first output so everything can feed into something else. Tools cover asset inventory, system health baselining, change detection, suspicious indicator hunting, log analysis, disk management, and network scanning.
+A suite of focused, single-purpose security and system tools built in Rust. Designed in the spirit of NirSoft and Sysinternals; small, transparent, composable, JSON-first output so everything can feed into something else. Tools cover asset inventory, system health baselining, change detection, suspicious indicator hunting, log analysis, disk management, and network scanning.
 
 > GPL licensed. Built to solve real problems in real environments, not to demo well.
 
